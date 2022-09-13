@@ -247,6 +247,28 @@ h3{
   font-size: 14px;
 }
 
+
+.news1-sub .sub-sub-about {
+231   padding: 1rem;
+232   animation: animatetext 0.5s linear;
+233 }
+234
+235 @keyframes animatetext {
+236   from {
+237     transform: translateY(15px);
+238     opacity: 0.5;
+239   }
+240   to {
+241     transform: translateY(0);
+242     opacity: 1;
+243   }
+244 }
+245
+246 .news1-sub .sub-sub-about p {
+247   font-size: 14px;
+248 }
+
+
 /* Start of Members Section */  		
 #member{
 	width: 100%;
