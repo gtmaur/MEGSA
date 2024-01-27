@@ -21,23 +21,15 @@
 	animation-play-state: running;
 	animation-timing-function: ease-in-out;
 }
+
+
 @keyframes animate {
-    0% {
-        background-image: url(images/test1.jpeg);
-    }
-    25% {
-        background-image: url(images/test6.jpeg);
-    }
-    50% {
-        background-image: url(images/test3.png);
-    }
-    75% {
-        background-image: url(images/test5.jpeg);
-    }
     100% {
         background-image: url(images/famu_fsu_coe.jpeg);
     }
 }
+
+
 {nav
 	display: flex;
 	padding: 2% 6%;
