@@ -36,13 +36,9 @@ python python Src_QR_Code_Generator.py.py
 ```
 
 
-Please cite the following paper if this model helps your research:
+Contributing
 
-	@inproceedings{deng2019accurate,
-	    title={Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set},
-	    author={Yu Deng and Jiaolong Yang and Sicheng Xu and Dong Chen and Yunde Jia and Xin Tong},
-	    booktitle={IEEE Computer Vision and Pattern Recognition Workshops},
-	    year={2019}
-	}
+Feel free to contribute to this project by opening issues or submitting pull requests.
+
 ##
 The face images on this page are from the public [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset released by MMLab, CUHK.
