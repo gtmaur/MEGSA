@@ -1,5 +1,5 @@
 '''
-This is a simple pythin script developed to create the QR code for the MEGSA events.
+This is a simple python script developed to create the QR code for the MEGSA events.
 '''
 import qrcode
 from PIL import Image
