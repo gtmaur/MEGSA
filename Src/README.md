@@ -34,3 +34,9 @@ python Src_QR_Code_Generator.py
 
 ### Generated QR Code
  The resulting QR code, seamlessly blended with the background image, will be saved to your Desktop.
+
+
+Configuration
+`url_to_encode`: The URL to encode in the QR code.
+`background_image_path`: The path to the background image.
+`event_name`: The name of the MEGSA event.
