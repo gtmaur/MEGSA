@@ -36,9 +36,11 @@ python python Src_QR_Code_Generator.py.py
 ```
 
 
-Contributing
 
-Feel free to contribute to this project by opening issues or submitting pull requests.
+## Contributing
 
-##
-The face images on this page are from the public [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset released by MMLab, CUHK.
+Feel free to contribute to this project by opening [issues](https://github.com/MEGSA-AME/MEGSA/issues) or submitting [pull requests](https://github.com/MEGSA-AME/MEGSA/pulls). Your contributions are highly appreciated!
+
+---
+
+
