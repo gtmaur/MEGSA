@@ -1,6 +1,13 @@
 # MEGSA Event QR Code Generator
 
-This simple Python script generates QR codes for MEGSA events. It overlays the QR code on a background image and saves the result as a PNG file.
+Welcome to the MEGSA Event QR Code Generator! This Python script, `Src_QR_Code_Generator.py`, enables you to effortlessly create visually appealing QR codes for MEGSA events. The generated QR code, seamlessly blended with a background image, will be saved as a PNG file on your Desktop.
+
+## Usage
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/MEGSA-AME/MEGSA.git
 
 ## Requirements
 
@@ -13,32 +20,17 @@ You can install the dependencies by running:
 ```bash
 pip install -r requirements.txt
 
-Usage
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/MEGSA-AME/MEGSA.git
-Navigate to the project directory:
-
-bash
-Copy code
+### Navigate to the Project Directory
+```bash
 cd MEGSA/Src
-Run the script:
 
-bash
-Copy code
+
+### Run the Script
+```bash
 python Src_QR_Code_Generator.py
-Follow the prompts and enter the required information.
 
-The generated QR code with the background image will be saved to your Desktop.
+### Follow the Prompts and enter the required information
 
-Configuration
-url_to_encode: The URL you want to encode in the QR code.
-background_image_path: Path to the background image.
-event_name: Name of the MEGSA event.
-Contributing
-Feel free to contribute to this project by opening issues or submitting pull requests.
-
-
-
+### Generated QR Code
+ The resulting QR code, seamlessly blended with the background image, will be saved to your Desktop.
