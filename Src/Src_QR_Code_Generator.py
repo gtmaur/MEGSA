@@ -34,13 +34,13 @@ def generate_qr_code_with_background(url, background_image_path, event_name):
     today_date = datetime.now().strftime("%Y-%m-%d")
 
     # Save the combined image to the Desktop with the event name and today's date as PNG
-    output_file = fr"C:\Users\aa21b.FSU\Desktop\{event_name}_{today_date}.png"
+    output_file = fr"D:\Github_for_MEGSA\MEGSA\Src\{event_name}_{today_date}.png"
     combined_image.save(output_file, "PNG")
 
 if __name__ == "__main__":
-    url_to_encode = "https://docs.google.com/forms/d/e/1FAIpQLSfPbV6V34BAJwD36kIIDX9FGJfssa6BAsshWfGP8CvQj6mjBA/viewform"
-    background_image_path = r"C:\Users\aa21b.FSU\Desktop\megsa_logo.jpg"  # Use raw string or double backslashes
-    event_name = "megsa_bbq"
+    url_to_encode = "https://docs.google.com/forms/d/1bk7sWGN8uiThxEkZc57yfWGMRKI6SSsuUqDKY99eNok/edit"
+    background_image_path = r"D:\Github_for_MEGSA\MEGSA\Src\megsa_logo.jpg"  # Use raw string or double backslashes
+    event_name = "Email_collection"
 
     # Generate and save QR code as PNG
     generate_qr_code_with_background(url_to_encode, background_image_path, event_name)
