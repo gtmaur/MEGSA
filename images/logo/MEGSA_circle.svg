@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 288 288" style="enable-background:new 0 0 288 288;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:url(#SVGID_1_);stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'DagnyPro-Black';}
+	.st3{font-size:108px;}
+	.st4{fill:#EE7624;}
+	.st5{fill:#6F1931;}
+</style>
+<g id="Circle">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.4935" y1="144" x2="286.5065" y2="144">
+		<stop  offset="0" style="stop-color:#EE7624"/>
+		<stop  offset="1" style="stop-color:#6F1931"/>
+	</linearGradient>
+	<circle class="st0" cx="144" cy="144" r="141.5"/>
+</g>
+<g id="Text">
+	<polygon class="st1" points="279.5,270.2 10.4,270.2 8.5,77.5 279.2,77.5 	"/>
+	<text transform="matrix(1 0 0 1 26.277 153.7209)"><tspan x="0" y="0" class="st2 st3">MEG</tspan><tspan x="45" y="84" class="st4 st2 st3">S</tspan><tspan x="113.9" y="84" class="st5 st2 st3">A</tspan></text>
+</g>
+</svg>
